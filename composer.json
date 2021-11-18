@@ -1,0 +1,10 @@
+{
+    "require": {
+        "spipu/html2pdf": "^5.2",
+        "ext-imagick": "^3.4",
+        "sendgrid/sendgrid": "^7.9"
+    },
+    "require-dev": {
+    	"heroku/heroku-buildpack-php": "^190.0"
+    }
+}
